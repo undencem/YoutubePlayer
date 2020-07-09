@@ -3,7 +3,7 @@
 
 Make necessary chages in YouTubeActivity.java File
 
-    // Add your Google API here    
+    // Add your Google API KEY 
     
     // Remove dots and add yr Google API key here 
     static final String GOOGLE_API_KEY="....";
